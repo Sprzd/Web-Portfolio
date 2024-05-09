@@ -114,6 +114,13 @@ p {
   color: #000;
 }
 
+.div-block-3 {
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
 @media screen and (max-width: 991px) {
   .section_bg {
     display: flex;
