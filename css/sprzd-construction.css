@@ -259,6 +259,10 @@ p {
     align-items: center;
   }
 
+  .heading {
+    margin-bottom: 10px;
+  }
+
   .section {
     margin-top: 0;
   }
@@ -319,6 +323,7 @@ p {
   }
 
   .heading {
+    margin-bottom: 0;
     font-size: 28px;
   }
 
